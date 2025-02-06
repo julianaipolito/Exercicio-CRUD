@@ -1,0 +1,6 @@
+com\joaoju\Users_API\controllers\UsersController.class
+com\joaoju\Users_API\config\WebConfig.class
+com\joaoju\Users_API\repositories\UsersRepository.class
+com\joaoju\Users_API\UsersApiApplication.class
+com\joaoju\Users_API\models\UsersModel.class
+com\joaoju\Users_API\dtos\UsersDTO.class
